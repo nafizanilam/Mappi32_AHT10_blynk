@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPLuXkIBfLg"
-#define BLYNK_DEVICE_NAME "Suhu dan Kelembaban"
-#define BLYNK_AUTH_TOKEN "lcMo_kbBHlvVKy2gT211gWg_rWxWzZ6Q"
+#define BLYNK_TEMPLATE_ID "XXXXXXXX"
+#define BLYNK_DEVICE_NAME "XXXXXXXXXXXX"
+#define BLYNK_AUTH_TOKEN "XXXXXXXXXXXXXXXXX"
 #define BLYNK_PRINT Serial
 
 #include <Adafruit_AHT10.h>
@@ -11,8 +11,8 @@
 Adafruit_AHT10 aht;
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "KMTek";
-char pass[] = "KMTek123";
+char ssid[] = "XXXXXXX";
+char pass[] = "XXXXXXX";
 
 Adafruit_Sensor *aht_humidity, *aht_temp;
 
