@@ -1,0 +1,1 @@
+# Mappi32_AHT10_blynk
